@@ -156,7 +156,7 @@ int main()
 	//imprime informacion
 	cout<<"Categoria: "<<p->getcategoria()<<endl;
 	//al macena el nombre
-	p->setnombre("Juan");
+	p->setnombre("Carlos");
 	//imprime informacion
 	cout<<"Nombre: "<<p->getnombre()<<endl;
 	//al macena el apellido
